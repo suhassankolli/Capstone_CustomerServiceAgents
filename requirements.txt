@@ -1,0 +1,9 @@
+neo4j~=5.25.0
+streamlit~=1.38.0
+langchain~=0.3.0
+langchain-openai~=0.2.0
+langchain-neo4j~=0.1.0
+python-dotenv~=1.0.1
+# Add Google ADK / Vertex AI SDKs as needed, for example:
+google-cloud-aiplatform
+google-adk

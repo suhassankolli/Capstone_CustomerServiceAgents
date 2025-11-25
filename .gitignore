@@ -1,0 +1,4 @@
+venvcsv
+venvcsv/
+.env
+.vscode
