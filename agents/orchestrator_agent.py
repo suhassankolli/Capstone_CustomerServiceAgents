@@ -1,7 +1,7 @@
-from text_to_cypher_agent import TextToCypherAgent
-from cohort_agent_client import CohortAgentClient
-from summarization_agent_client import SummarizationAgentClient
-from neo4j_memory import Neo4jMemoryStore
+from agents.sub_agents.text_to_cypher_agent import TextToCypherAgent
+from agents.sub_agents.cohort_agent import CohortAgent
+from agents.sub_agents.summary_agent import SummarizationAgent
+from agents.graph.neo4j_memory import Neo4jMemoryStore
 
 
 class OrchestratorAgent:
@@ -19,13 +19,13 @@ class OrchestratorAgent:
         self,
         memory_store: Neo4jMemoryStore | None = None,
         text_to_cypher_agent: TextToCypherAgent | None = None,
-        cohort_client: CohortAgentClient | None = None,
-        summarizer: SummarizationAgentClient | None = None,
+        cohort_agent: CohortAgent | None = None,
+        summarizer: SummarizationAgent | None = None,
     ):
         self.memory = memory_store or Neo4jMemoryStore()
         self.text_to_cypher_agent = text_to_cypher_agent or TextToCypherAgent()
-        self.cohort_client = cohort_client or CohortAgentClient()
-        self.summarizer = summarizer or SummarizationAgentClient()
+        self.cohort_agent = cohort_agent or CohortAgent()
+        self.summarizer = summarizer or SummarizationAgent()
 
     def handle_query(
         self,
@@ -45,15 +45,17 @@ class OrchestratorAgent:
         context = self.memory.get_recent_context(session_id, limit=10)
 
         # 3. call Text-to-Cypher agent
-        t2c_result = self.text_to_cypher_agent.query(query+ f". Customer id {customer_id} ")
+        t2c_result = self.text_to_cypher_agent.query(query+ f". for  Customer id {customer_id} ")
 
         # 4. call cohort agent
-        cohort_result = self.cohort_client.find_cohorts(
+        cohort_result = self.cohort_agent.find_cohorts(
             query=query,
             customer_id=customer_id,
         )
 
-       
+        print('-------- Query ----------\n')
+        print(query)
+        print('-------- End Query ----------\n')
         # 5. call summarization agent
         final_answer = self.summarizer.summarize(
             original_query=query,

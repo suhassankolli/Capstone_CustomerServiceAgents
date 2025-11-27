@@ -1,5 +1,9 @@
 from datetime import datetime
-from neo4j_client import Neo4jClient
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parents[1]))
+
+from .neo4j_client import Neo4jClient
 
 
 class Neo4jMemoryStore:

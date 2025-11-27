@@ -1,0 +1,102 @@
+[
+ {
+    "customer_id": "CUST0001",
+    "name": "Samantha Davis"
+  },
+  {
+    "customer_id": "CUST0002",
+    "name": "Barbara Nguyen"
+  },
+  {
+    "customer_id": "CUST0003",
+    "name": "Patricia Scott"
+  },
+  {
+    "customer_id": "CUST0004",
+    "name": "Carolyn Phillips"
+  },
+  {
+    "customer_id": "CUST0005",
+    "name": "Susan Garcia"
+  },
+  {
+    "customer_id": "CUST0006",
+    "name": "Jonathan Davis"
+  },
+  {
+    "customer_id": "CUST0007",
+    "name": "Jennifer Nelson"
+  },
+  {
+    "customer_id": "CUST0008",
+    "name": "Samantha Turner"
+  },
+  {
+    "customer_id": "CUST0009",
+    "name": "Nicole Green"
+  },
+  {
+    "customer_id": "CUST0010",
+    "name": "Samantha Hall"
+  },
+  {
+    "customer_id": "CUST0011",
+    "name": "Kenneth Sanchez"
+  },
+  {
+    "customer_id": "CUST0012",
+    "name": "Ronald Adams"
+  },
+  {
+    "customer_id": "CUST0013",
+    "name": "Kimberly Mitchell"
+  },
+  {
+    "customer_id": "CUST0014",
+    "name": "Shirley Young"
+  },
+  {
+    "customer_id": "CUST0015",
+    "name": "Scott Jones"
+  },
+  {
+    "customer_id": "CUST0016",
+    "name": "Virginia Campbell"
+  },
+  {
+    "customer_id": "CUST0017",
+    "name": "Christopher Robinson"
+  },
+  {
+    "customer_id": "CUST0018",
+    "name": "Samantha Allen"
+  },
+  {
+    "customer_id": "CUST0019",
+    "name": "John Davis"
+  },
+  {
+    "customer_id": "CUST0020",
+    "name": "David Campbell"
+  },
+  {
+    "customer_id": "CUST0021",
+    "name": "Stephen Hernandez"
+  },
+  {
+    "customer_id": "CUST0022",
+    "name": "Dennis Campbell"
+  },
+  {
+    "customer_id": "CUST0023",
+    "name": "Laura Davis"
+  },
+  {
+    "customer_id": "CUST0024",
+    "name": "Pamela Anderson"
+  },
+  {
+    "customer_id": "CUST0025",
+    "name": "Kevin Jones"
+  }
+]
