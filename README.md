@@ -53,7 +53,7 @@ The **Cypher system prompt** in `text_to_cypher_agent.py` is tuned to actual Neo
    `neo_cust_product_relationships.csv`, `neo_customer_event_relationships.csv`)
    with labels and relationships as shown below 
     | Node              | Relationship | File to use |
-    | :---------------- | :------:     | ----: |
+    | :---------------- | :------:     | :----: |
     | Customer          |   NA         | neo_customers.csv |
     | Product           |   NA         | neo_products.csv |
     | From Customer To Product Node   |  HAS_PRODUCT   | neo_cust_product_relationships.csv|
@@ -82,3 +82,7 @@ The orchestrator will:
 - Call the **Find Cohorts**  agent which will query the Neo4j using the TextToCypher agent.
 - Call the **Summarization** ADK agent to summarize the results.
 - Store the conversation history in Neo4j as shared memory.
+
+
+## Demo Video
+[![Watch the Customer Service Agent Demo video](https://i9.ytimg.com/vi_webp/MdudrsIx3ec/mqdefault.webp?v=69290d81&sqp=CMzeqMkG&rs=AOn4CLCqm0V-0NIjKsYgDo2o-VeDGJNfSw)](https://youtu.be/MdudrsIx3ec)

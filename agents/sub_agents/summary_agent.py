@@ -119,6 +119,12 @@ class SummarizationAgent:
         Graph insight: ...
         Customer cohorts: ...
         Special open events: ...
+        Final summary using all the data in small paragraph
+        Rules:
+        - Do NOT add any extra headings or sections.
+        - Do NOT include JSON or bullet points.
+        - Keep the answer short and business-friendly.
+        - Do NOT Show duplicate records or answers
         """.strip()
 
         return user_message
@@ -168,14 +174,14 @@ class SummarizationAgent:
             "conversation_context": conversation_context,
         }
 
-        self._log("-------- Original Query ---------")
-        self._log(original_query)
+        #self._log("-------- Original Query ---------")
+        #self._log(original_query)
 
         user_message_str = self._build_user_message(payload)
 
-        self._log("--- Start User Message ----")
-        self._log(user_message_str)
-        self._log("--- End User Message ----")
+        #self._log("--- Start User Message ----")
+        #self._log(user_message_str)
+        #self._log("--- End User Message ----")
 
         user_message = UserContent(parts=[Part(text=user_message_str)])
         session = self._get_or_create_session()

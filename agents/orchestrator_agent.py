@@ -53,9 +53,9 @@ class OrchestratorAgent:
             customer_id=customer_id,
         )
 
-        print('-------- Query ----------\n')
-        print(query)
-        print('-------- End Query ----------\n')
+        #print('-------- Query ----------\n')
+        #print(query)
+        #print('-------- End Query ----------\n')
         # 5. call summarization agent
         final_answer = self.summarizer.summarize(
             original_query=query,
