@@ -48,10 +48,22 @@ The **Cypher system prompt** in `text_to_cypher_agent.py` is tuned to actual Neo
    OPENAI_API_KEY=your open AI key
    GOOGLE_API_KEY=your google api key
 
-4. Ensure your Neo4j database is populated using the CSVs  provided
+4. Ensure your Neo4j database (neo4j) is populated using the CSVs  provided under .data folder
    (`neo_customers.csv`, `neo_products.csv`, `neo_events.csv`,
    `neo_cust_product_relationships.csv`, `neo_customer_event_relationships.csv`)
-   with labels and relationships as described.
+   with labels and relationships as shown below 
+    | Node              | Relationship | File to use |
+    | :---------------- | :------:     | ----: |
+    | Customer          |   NA         | neo_customers.csv |
+    | Product           |   NA         | neo_products.csv |
+    | From Customer To Product Node   |  HAS_PRODUCT   | neo_cust_product_relationships.csv|
+    | Event |  NA   | neo_events.csv |
+    | From Customer To Event Node   |  HAS_EVENT   | neo_customer_event_relationships.csv|
+    
+    Once you have created the nodes and relaitonships as mentioned above using Neo4j Import feature, your 
+    neo4j (database name) should look like this: 
+
+    ![Company Logo](./media/Neo4j_Nodes_And_relaitons.jpg "neo4j database- nodes and relationship")
 
 5. Run the Streamlit app:
 

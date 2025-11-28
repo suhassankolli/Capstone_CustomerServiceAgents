@@ -1,0 +1,95 @@
+event_type,event_message,event_status,event_open_date,event_closed_date,customer_notes,customer_service_notes,EventID
+KYC_Update,Customer provided updated ID documents.,Closed,9/17/2018,2/2/2019,Customer satisfied,Pending verification,EVT00001
+KYC_Update,Customer provided updated ID documents.,Closed,7/31/2023,9/9/2023,Needs follow-up,No action required,EVT00002
+KYC_Update,Customer provided updated ID documents.,Closed,8/12/2021,9/6/2021,Needs follow-up,Ticket#96362,EVT00003
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,6/16/2019,6/25/2019,Waiting on documents,Refund issued,EVT00004
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,5/11/2018,10/23/2018,Customer satisfied,Refund issued,EVT00005
+Account_Closure,Customer requested closure of checking account.,Closed,11/12/2025,1/17/2026,"Called support, resolved",Escalated to fraud team,EVT00006
+Account_Closure,Customer requested closure of checking account.,Closed,10/18/2018,12/11/2018,Customer satisfied,Refund issued,EVT00007
+KYC_Update,Customer provided updated ID documents.,Open,9/6/2018,,Needs follow-up,No action required,EVT00008
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,12/1/2024,,Needs follow-up,Ticket#15328,EVT00009
+Complaint,Customer reported incorrect fee on statement.,Closed,11/16/2018,3/29/2019,"Called support, resolved",Escalated to fraud team,EVT00010
+Account_Closure,Customer requested closure of checking account.,Closed,4/28/2022,6/17/2022,Needs follow-up,Escalated to fraud team,EVT00011
+KYC_Update,Customer provided updated ID documents.,Closed,1/3/2020,5/25/2020,Customer satisfied,Pending verification,EVT00012
+Complaint,Customer reported incorrect fee on statement.,Open,7/25/2025,,Customer satisfied,Escalated to fraud team,EVT00013
+Marketing,Offer: 2.5% APY on new savings account.,Open,3/2/2024,,Needs follow-up,Escalated to fraud team,EVT00014
+Account_Closure,Customer requested closure of checking account.,Open,12/20/2022,,Requested escalation,No action required,EVT00015
+Complaint,Customer reported incorrect fee on statement.,Closed,8/16/2022,12/5/2022,Requested escalation,Escalated to fraud team,EVT00016
+Account_Closure,Customer requested closure of checking account.,Closed,2/13/2024,5/20/2024,Needs follow-up,No action required,EVT00017
+Service_Request,Request to update mailing address and phone number.,Closed,6/15/2022,6/24/2022,Requested escalation,Ticket#88087,EVT00018
+Account_Closure,Customer requested closure of checking account.,Open,7/8/2019,,"Called support, resolved",Escalated to fraud team,EVT00019
+Complaint,Customer reported incorrect fee on statement.,Closed,3/30/2018,6/9/2018,Needs follow-up,Pending verification,EVT00020
+Account_Closure,Customer requested closure of checking account.,Closed,9/26/2019,10/6/2019,Customer satisfied,Escalated to fraud team,EVT00021
+Marketing,Offer: 2.5% APY on new savings account.,Open,12/21/2020,,Needs follow-up,Escalated to fraud team,EVT00022
+Complaint,Customer reported incorrect fee on statement.,Closed,5/15/2021,10/9/2021,Customer satisfied,Escalated to fraud team,EVT00023
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,8/22/2021,,Waiting on documents,Pending verification,EVT00024
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,9/4/2024,11/20/2024,"Called support, resolved",Refund issued,EVT00025
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,8/18/2018,,Requested escalation,Refund issued,EVT00026
+Marketing,Offer: 2.5% APY on new savings account.,Closed,4/27/2025,4/30/2025,Customer satisfied,No action required,EVT00027
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,7/31/2021,12/23/2021,Waiting on documents,Pending verification,EVT00028
+KYC_Update,Customer provided updated ID documents.,Closed,6/23/2020,7/6/2020,Customer satisfied,Pending verification,EVT00029
+Account_Closure,Customer requested closure of checking account.,Closed,8/30/2023,10/26/2023,Customer satisfied,Refund issued,EVT00030
+Marketing,Offer: 2.5% APY on new savings account.,Closed,10/8/2021,2/7/2022,Needs follow-up,Pending verification,EVT00031
+Complaint,Customer reported incorrect fee on statement.,Open,12/15/2018,,Needs follow-up,Escalated to fraud team,EVT00032
+Marketing,Offer: 2.5% APY on new savings account.,Closed,5/24/2023,7/14/2023,Customer satisfied,Pending verification,EVT00033
+Account_Closure,Customer requested closure of checking account.,Closed,11/28/2024,4/12/2025,Waiting on documents,Ticket#41760,EVT00034
+Service_Request,Request to update mailing address and phone number.,Closed,8/17/2021,1/12/2022,"Called support, resolved",Refund issued,EVT00035
+Service_Request,Request to update mailing address and phone number.,Open,2/5/2022,,Waiting on documents,No action required,EVT00036
+KYC_Update,Customer provided updated ID documents.,Open,4/10/2018,,Waiting on documents,Pending verification,EVT00037
+Service_Request,Request to update mailing address and phone number.,Closed,12/27/2024,4/19/2025,"Called support, resolved",Escalated to fraud team,EVT00038
+KYC_Update,Customer provided updated ID documents.,Closed,3/12/2022,4/3/2022,"Called support, resolved",Escalated to fraud team,EVT00039
+Marketing,Offer: 2.5% APY on new savings account.,Closed,3/24/2021,6/20/2021,"Called support, resolved",Refund issued,EVT00040
+Service_Request,Request to update mailing address and phone number.,Open,4/4/2018,,Waiting on documents,Escalated to fraud team,EVT00041
+Marketing,Offer: 2.5% APY on new savings account.,Closed,2/17/2024,4/24/2024,Needs follow-up,Pending verification,EVT00042
+Marketing,Offer: 2.5% APY on new savings account.,Closed,10/18/2025,4/8/2026,"Called support, resolved",Pending verification,EVT00043
+KYC_Update,Customer provided updated ID documents.,Closed,11/28/2023,2/2/2024,Waiting on documents,No action required,EVT00044
+Marketing,Offer: 2.5% APY on new savings account.,Closed,10/23/2025,1/1/2026,"Called support, resolved",Ticket#70943,EVT00045
+Service_Request,Request to update mailing address and phone number.,Open,5/28/2025,,Requested escalation,Ticket#24141,EVT00046
+KYC_Update,Customer provided updated ID documents.,Closed,5/3/2022,8/9/2022,Needs follow-up,No action required,EVT00047
+Service_Request,Request to update mailing address and phone number.,Closed,9/11/2024,10/4/2024,Waiting on documents,Pending verification,EVT00048
+Account_Closure,Customer requested closure of checking account.,Closed,12/28/2025,1/8/2026,Waiting on documents,No action required,EVT00049
+Complaint,Customer reported incorrect fee on statement.,Open,6/30/2023,,Waiting on documents,No action required,EVT00050
+Complaint,Customer reported incorrect fee on statement.,Closed,12/26/2021,3/14/2022,Waiting on documents,No action required,EVT00051
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,1/7/2025,,Customer satisfied,Pending verification,EVT00052
+Complaint,Customer reported incorrect fee on statement.,Closed,7/12/2020,10/8/2020,Customer satisfied,Escalated to fraud team,EVT00053
+KYC_Update,Customer provided updated ID documents.,Closed,4/15/2022,10/6/2022,Needs follow-up,Escalated to fraud team,EVT00054
+Marketing,Offer: 2.5% APY on new savings account.,Closed,6/4/2024,9/22/2024,Requested escalation,No action required,EVT00055
+Service_Request,Request to update mailing address and phone number.,Closed,1/30/2024,3/23/2024,Waiting on documents,Pending verification,EVT00056
+Marketing,Offer: 2.5% APY on new savings account.,Open,7/20/2019,,Needs follow-up,Refund issued,EVT00057
+Marketing,Offer: 2.5% APY on new savings account.,Closed,5/11/2025,6/21/2025,Requested escalation,Pending verification,EVT00058
+Account_Closure,Customer requested closure of checking account.,Closed,4/30/2019,7/21/2019,Waiting on documents,No action required,EVT00059
+Service_Request,Request to update mailing address and phone number.,Open,5/27/2021,,Requested escalation,Escalated to fraud team,EVT00060
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,6/23/2019,6/30/2019,Needs follow-up,No action required,EVT00061
+Account_Closure,Customer requested closure of checking account.,Closed,11/13/2024,4/15/2025,Waiting on documents,Ticket#40266,EVT00062
+Complaint,Customer reported incorrect fee on statement.,Closed,11/22/2018,3/25/2019,Waiting on documents,Pending verification,EVT00063
+Service_Request,Request to update mailing address and phone number.,Closed,12/26/2025,4/1/2026,Waiting on documents,Refund issued,EVT00064
+Marketing,Offer: 2.5% APY on new savings account.,Closed,11/2/2019,12/30/2019,"Called support, resolved",Ticket#63554,EVT00065
+Complaint,Customer reported incorrect fee on statement.,Closed,8/19/2022,2/7/2023,Waiting on documents,Ticket#36812,EVT00066
+Service_Request,Request to update mailing address and phone number.,Open,12/2/2024,,Requested escalation,Escalated to fraud team,EVT00067
+Service_Request,Request to update mailing address and phone number.,Closed,6/21/2018,9/27/2018,Requested escalation,Pending verification,EVT00068
+KYC_Update,Customer provided updated ID documents.,Closed,5/31/2024,10/16/2024,Needs follow-up,Ticket#94068,EVT00069
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,1/24/2023,,"Called support, resolved",Pending verification,EVT00070
+Account_Closure,Customer requested closure of checking account.,Closed,6/9/2022,6/20/2022,Needs follow-up,Pending verification,EVT00071
+KYC_Update,Customer provided updated ID documents.,Closed,7/21/2018,10/4/2018,Customer satisfied,No action required,EVT00072
+Service_Request,Request to update mailing address and phone number.,Open,11/13/2019,,Requested escalation,Ticket#90364,EVT00073
+KYC_Update,Customer provided updated ID documents.,Closed,10/19/2023,2/15/2024,Customer satisfied,Pending verification,EVT00074
+Marketing,Offer: 2.5% APY on new savings account.,Closed,7/25/2024,12/12/2024,Waiting on documents,Refund issued,EVT00075
+Service_Request,Request to update mailing address and phone number.,Closed,4/13/2018,8/8/2018,Needs follow-up,Refund issued,EVT00076
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,10/21/2020,,Waiting on documents,Ticket#26193,EVT00077
+KYC_Update,Customer provided updated ID documents.,Closed,1/15/2023,4/18/2023,"Called support, resolved",Refund issued,EVT00078
+Account_Closure,Customer requested closure of checking account.,Closed,11/12/2024,2/17/2025,Needs follow-up,Ticket#59886,EVT00079
+Marketing,Offer: 2.5% APY on new savings account.,Closed,10/4/2021,3/22/2022,Waiting on documents,Escalated to fraud team,EVT00080
+Marketing,Offer: 2.5% APY on new savings account.,Open,11/22/2025,4/13/2026,,,EVT00081
+KYC_Update,Customer provided updated ID documents.,open,11/11/2025,,Documents emailed,Pending verification,EVT00082
+Complaint,Customer reported incorrect fee on statement.,Open,11/20/2025,,Provoded the details to the customer service on incorrect fees,Pending verification,EVT00083
+Account_Closure,Customer requested closure of checking account.,Closed,7/15/2023,9/9/2023,Needs follow-up,Refund issued,EVT00084
+Service_Request,Request to update mailing address and phone number.,Closed,12/15/2022,5/18/2023,Needs follow-up,Escalated to fraud team,EVT00085
+Account_Closure,Customer requested closure of checking account.,Closed,2/13/2021,7/24/2021,Needs follow-up,Ticket#37215,EVT00086
+Marketing,Offer: 2.5% APY on new savings account.,Closed,8/14/2018,11/12/2018,"Called support, resolved",Ticket#29054,EVT00087
+Account_Closure,Customer requested closure of checking account.,Open,10/7/2024,,Requested escalation,Ticket#21495,EVT00088
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Closed,9/4/2022,10/16/2022,Requested escalation,Pending verification,EVT00089
+Account_Closure,Customer requested closure of checking account.,Closed,4/21/2024,8/16/2024,Needs follow-up,Ticket#57210,EVT00090
+Complaint,Customer reported incorrect fee on statement.,Open,8/15/2021,,Customer satisfied,Refund issued,EVT00091
+Fraud_detection,Unusual login pattern detected; possible card skimming.,Open,4/14/2021,,Waiting on documents,No action required,EVT00092
+Complaint,Customer reported incorrect fee on statement.,Open,11/29/2023,,Needs follow-up,Escalated to fraud team,EVT00093
+Account_Closure,Customer requested closure of checking account.,Closed,8/27/2018,1/21/2019,Needs follow-up,Refund issued,EVT00094

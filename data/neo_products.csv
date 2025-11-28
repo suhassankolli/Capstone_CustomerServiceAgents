@@ -1,0 +1,277 @@
+Product,Has account number,open date,current balance,Maturity date,Interest rate,Maturity amount,Bank Name,branch name,Loan number,Loan Amount,Loan Term (years),Loan Interest,Current outstanding Loan amount,Last payment amount,Last payment date,Card number,Current Balance,Credit Limit,Card type,Last Payment Made,Business Name,Business Category Type,Business Account Number,number of employees,business address,year of business registration,financial_year,income,expense,profit,ProductID
+Certificate Of Deposit,CD7669456980,2020-03-08,69051.11,2021-03-08,0.0558,72904.16,Liberty Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00001
+Certificate Of Deposit,CD3425458760,2022-10-07,44476.19,2025-10-06,0.0308,48713.67,Community Savings,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00002
+Home Loan Account,,,,,,,,,LN599620746915,653045.48,30.0,0.0685,306938.16,2160.07,2021-08-08,,,,,,,,,,,,,,,,PROD00003
+Savings Account,SAV4647002178,2023-07-03,49405.96,,0.0332,,Pioneer Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00004
+Certificate Of Deposit,CD7672594619,2019-04-09,19570.67,2020-04-08,0.0249,20057.98,Community Savings,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00005
+Savings Account,SAV0428196192,2020-10-27,13671.24,,0.0419,,MetroBank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00006
+Home Loan Account,,,,,,,,,LN411571078372,52437.0,25.0,0.0619,30409.44,3367.72,2019-09-01,,,,,,,,,,,,,,,,PROD00007
+Credit Card,,,,,,,,,,,,,,,,4316527077836894.0,555.29,10000.0,Mastercard,2024-03-25,,,,,,,,,,,PROD00008
+Certificate Of Deposit,CD7461493668,2019-11-16,53069.16,2020-11-15,0.0301,54666.54,Citadel Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00009
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Young LLC,Construction,BUS06997406,224.0,"1746 Center St, Philadelphia, TN",2009.0,2022.0,4519051.83,2353051.92,2165999.91,PROD00010
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Young LLC,Construction,BUS06997406,224.0,"1746 Center St, Philadelphia, TN",2009.0,2023.0,3984794.46,2518451.86,1466342.6,PROD00011
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Young LLC,Construction,BUS06997406,224.0,"1746 Center St, Philadelphia, TN",2009.0,2024.0,1886708.63,1066945.82,819762.81,PROD00012
+Credit Card,,,,,,,,,,,,,,,,1086291422089614.0,5183.48,10000.0,Mastercard,2022-01-07,,,,,,,,,,,PROD00013
+Certificate Of Deposit,CD3425592962,2015-08-11,84685.09,2020-08-09,0.016,91680.19,Liberty Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00014
+Home Loan Account,,,,,,,,,LN670649276366,693876.24,20.0,0.0514,626850.37,3302.43,2021-06-19,,,,,,,,,,,,,,,,PROD00015
+Checking Account,CHK0271159598,2013-10-06,13710.73,,0.0283,,Liberty Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00016
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Mitchell Co,Landscape,BUS40726638,143.0,"6092 Oak St, Portland, TX",1990.0,2022.0,1337003.72,742859.23,594144.49,PROD00017
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Mitchell Co,Landscape,BUS40726638,143.0,"6092 Oak St, Portland, TX",1990.0,2023.0,1855556.58,1553203.32,302353.26,PROD00018
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Mitchell Co,Landscape,BUS40726638,143.0,"6092 Oak St, Portland, TX",1990.0,2024.0,1325563.81,890065.03,435498.78,PROD00019
+Certificate Of Deposit,CD9366647610,2012-06-06,47676.21,2014-06-06,0.0391,51477.38,Liberty Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00020
+Credit Card,,,,,,,,,,,,,,,,8146794714044903.0,6650.75,3000.0,Mastercard,2022-08-19,,,,,,,,,,,PROD00021
+Home Loan Account,,,,,,,,,LN960299802690,366833.7,20.0,0.0593,75276.32,4183.13,2024-03-20,,,,,,,,,,,,,,,,PROD00022
+Savings Account,SAV2775299571,2024-06-07,1289.01,,0.0017,,Citadel Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00023
+Savings Account,SAV2141043542,2018-10-18,2168.25,,0.0394,,First National Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00024
+Small Business Account,,,,,,,,,,,,,,,,,,,,,King Co,Consulting,BUS60984174,231.0,"1423 Riverside Dr, Washington, AZ",1994.0,2022.0,648434.11,506390.0,142044.11,PROD00025
+Small Business Account,,,,,,,,,,,,,,,,,,,,,King Co,Consulting,BUS60984174,231.0,"1423 Riverside Dr, Washington, AZ",1994.0,2023.0,2935116.15,2408171.1,526945.05,PROD00026
+Small Business Account,,,,,,,,,,,,,,,,,,,,,King Co,Consulting,BUS60984174,231.0,"1423 Riverside Dr, Washington, AZ",1994.0,2024.0,1916903.91,1473766.21,443137.7,PROD00027
+Certificate Of Deposit,CD8677242344,2021-05-04,10818.67,2026-05-03,0.0436,13391.96,MetroBank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00028
+Credit Card,,,,,,,,,,,,,,,,3190800785553136.0,11254.26,20000.0,Visa,2022-11-10,,,,,,,,,,,PROD00029
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Inc,Landscape,BUS35122457,160.0,"9221 Main St, Washington, MD",2007.0,2022.0,164186.84,102283.75,61903.09,PROD00030
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Inc,Landscape,BUS35122457,160.0,"9221 Main St, Washington, MD",2007.0,2023.0,3816799.4,3491195.44,325603.96,PROD00031
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Inc,Landscape,BUS35122457,160.0,"9221 Main St, Washington, MD",2007.0,2024.0,1768096.64,1028382.47,739714.17,PROD00032
+Certificate Of Deposit,CD0724337750,2018-12-28,15045.59,2019-12-28,0.0398,15644.4,United Trust Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00033
+Home Loan Account,,,,,,,,,LN166264427142,694561.94,30.0,0.0463,214216.37,1258.49,2024-09-20,,,,,,,,,,,,,,,,PROD00034
+Checking Account,CHK2977214415,2013-02-28,7503.94,,0.025,,First National Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00035
+Credit Card,,,,,,,,,,,,,,,,3744034462491946.0,5427.79,7500.0,Visa,2020-10-22,,,,,,,,,,,PROD00036
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Enterprise,Dentist,BUS72706517,90.0,"2519 Lakeview Dr, Houston, AZ",2006.0,2022.0,1002413.58,772940.61,229472.97,PROD00037
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Enterprise,Dentist,BUS72706517,90.0,"2519 Lakeview Dr, Houston, AZ",2006.0,2023.0,3805872.17,3025588.66,780283.51,PROD00038
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Enterprise,Dentist,BUS72706517,90.0,"2519 Lakeview Dr, Houston, AZ",2006.0,2024.0,902187.72,764858.18,137329.54,PROD00039
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Torres Co,Retail,BUS10432053,116.0,"716 Maple Ave, Jacksonville, NV",2008.0,2022.0,402120.39,357449.85,44670.54,PROD00040
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Torres Co,Retail,BUS10432053,116.0,"716 Maple Ave, Jacksonville, NV",2008.0,2023.0,4279360.99,3324009.8,955351.19,PROD00041
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Torres Co,Retail,BUS10432053,116.0,"716 Maple Ave, Jacksonville, NV",2008.0,2024.0,2545197.73,1802560.56,742637.17,PROD00042
+Home Loan Account,,,,,,,,,LN709516594889,130112.68,20.0,0.022,92070.56,4956.73,2023-11-17,,,,,,,,,,,,,,,,PROD00043
+Savings Account,SAV3760633532,2024-02-07,32828.2,,0.0454,,MetroBank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00044
+Certificate Of Deposit,CD3963593378,2017-06-23,58691.21,2018-06-23,0.0128,59442.46,Citadel Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00045
+Home Loan Account,,,,,,,,,LN650393719127,532305.23,15.0,0.0531,466508.46,3166.55,2024-09-12,,,,,,,,,,,,,,,,PROD00046
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Construction,BUS81446242,192.0,"7455 Lakeview Dr, Seattle, CA",2009.0,2022.0,4828671.25,4118695.34,709975.91,PROD00047
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Construction,BUS81446242,192.0,"7455 Lakeview Dr, Seattle, CA",2009.0,2023.0,4521792.2,2655681.47,1866110.73,PROD00048
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Construction,BUS81446242,192.0,"7455 Lakeview Dr, Seattle, CA",2009.0,2024.0,3397967.99,2571204.07,826763.92,PROD00049
+Certificate Of Deposit,CD1268518827,2019-05-23,81872.23,2021-05-22,0.0491,90109.46,Community Savings,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00050
+Credit Card,,,,,,,,,,,,,,,,1492430052930986.0,11870.71,3000.0,Visa,2025-10-03,,,,,,,,,,,PROD00051
+Credit Card,,,,,,,,,,,,,,,,7469021964721266.0,942.11,20000.0,Mastercard,2021-07-22,,,,,,,,,,,PROD00052
+Checking Account,CHK7203516539,2020-03-15,7609.92,,0.0296,,Community Savings,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00053
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Harris Enterprise,Real Estate,BUS69207376,198.0,"9633 Riverside Dr, Phoenix, CA",2012.0,2022.0,2739148.45,2372318.92,366829.53,PROD00054
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Harris Enterprise,Real Estate,BUS69207376,198.0,"9633 Riverside Dr, Phoenix, CA",2012.0,2023.0,891943.85,758700.08,133243.77,PROD00055
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Harris Enterprise,Real Estate,BUS69207376,198.0,"9633 Riverside Dr, Phoenix, CA",2012.0,2024.0,2333822.04,1897222.66,436599.38,PROD00056
+Savings Account,SAV9027833384,2005-10-27,37664.55,,0.0104,,Liberty Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00057
+Checking Account,CHK7831387839,2019-02-16,10381.03,,0.011,,MetroBank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00058
+Certificate Of Deposit,CD0636463083,2023-07-07,55001.97,2025-07-06,0.0227,57527.4,First National Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00059
+Checking Account,CHK6706457108,2023-03-17,11719.68,,0.001,,Pioneer Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00060
+Credit Card,,,,,,,,,,,,,,,,3901434013329015.0,13703.14,2000.0,Mastercard,2024-02-09,,,,,,,,,,,PROD00061
+Home Loan Account,,,,,,,,,LN692101798996,724063.46,25.0,0.0646,616440.15,3616.68,2025-11-08,,,,,,,,,,,,,,,,PROD00062
+Credit Card,,,,,,,,,,,,,,,,5121705385603975.0,11537.47,20000.0,Visa,2024-01-20,,,,,,,,,,,PROD00063
+Savings Account,SAV6463876194,2025-06-05,43410.58,,0.0417,,United Trust Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00064
+Certificate Of Deposit,CD2019266065,2015-01-22,94800.83,2018-01-21,0.0335,104651.05,United Trust Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00065
+Savings Account,SAV1693908097,2010-12-09,32556.5,,0.0386,,Community Savings,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00066
+Home Loan Account,,,,,,,,,LN563284461443,186485.26,25.0,0.0567,160522.29,4881.8,2019-06-20,,,,,,,,,,,,,,,,PROD00067
+Checking Account,CHK5121410984,2011-08-01,12202.17,,0.028,,Citadel Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00068
+Savings Account,SAV4309592304,2024-10-16,42142.48,,0.034,,Community Savings,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00069
+Home Loan Account,,,,,,,,,LN011234005323,477836.66,25.0,0.0613,297807.67,3133.01,2019-06-12,,,,,,,,,,,,,,,,PROD00070
+Credit Card,,,,,,,,,,,,,,,,7397155013446536.0,2437.53,10000.0,Mastercard,2024-03-08,,,,,,,,,,,PROD00071
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Consulting,BUS83695776,7.0,"9879 Walnut St, Dallas, MA",2004.0,2022.0,3612572.56,2754895.36,857677.2,PROD00072
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Consulting,BUS83695776,7.0,"9879 Walnut St, Dallas, MA",2004.0,2023.0,869150.07,680597.83,188552.24,PROD00073
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Consulting,BUS83695776,7.0,"9879 Walnut St, Dallas, MA",2004.0,2024.0,3106284.31,2728949.06,377335.25,PROD00074
+Home Loan Account,,,,,,,,,LN609103164798,749045.41,15.0,0.0553,388517.28,2892.26,2025-06-05,,,,,,,,,,,,,,,,PROD00075
+Credit Card,,,,,,,,,,,,,,,,3377666125292227.0,4755.61,5000.0,Mastercard,2025-12-23,,,,,,,,,,,PROD00076
+Certificate Of Deposit,CD3710909672,2022-11-11,89680.29,2027-11-10,0.0267,102309.23,MetroBank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00077
+Certificate Of Deposit,CD5604717059,2023-10-23,25003.35,2025-10-22,0.0418,27137.32,United Trust Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00078
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Enterprise,Pediatrician,BUS72207627,218.0,"711 Elm St, Columbus, KY",2001.0,2022.0,4670934.6,2411850.78,2259083.82,PROD00079
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Enterprise,Pediatrician,BUS72207627,218.0,"711 Elm St, Columbus, KY",2001.0,2023.0,4184291.93,3575821.75,608470.18,PROD00080
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Walker Enterprise,Pediatrician,BUS72207627,218.0,"711 Elm St, Columbus, KY",2001.0,2024.0,947831.93,793384.08,154447.85,PROD00081
+Home Loan Account,,,,,,,,,LN805192954984,233170.83,15.0,0.0365,170475.68,3311.77,2020-02-02,,,,,,,,,,,,,,,,PROD00082
+Certificate Of Deposit,CD8850611322,2022-09-26,18374.0,2024-09-25,0.0521,20338.45,Citadel Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00083
+Certificate Of Deposit,CD2641698766,2023-01-24,26893.76,2024-01-24,0.0248,27560.73,MetroBank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00084
+Certificate Of Deposit,CD4545622780,2013-06-08,75025.75,2018-06-07,0.0383,90536.69,United Trust Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00085
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Landscape,BUS91892518,114.0,"2004 Washington St, Nashville, CO",2021.0,2022.0,472889.39,345052.69,127836.7,PROD00086
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Landscape,BUS91892518,114.0,"2004 Washington St, Nashville, CO",2021.0,2023.0,4047286.57,2849469.99,1197816.58,PROD00087
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Landscape,BUS91892518,114.0,"2004 Washington St, Nashville, CO",2021.0,2024.0,2575974.26,1817502.63,758471.63,PROD00088
+Savings Account,SAV4873875030,2006-05-09,46729.14,,0.0044,,First National Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00089
+Checking Account,CHK2116793849,2016-06-19,5634.68,,0.0205,,Pioneer Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00090
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson LLC,Lawyer,BUS93198794,185.0,"9020 Broadway, Seattle, TX",2004.0,2022.0,1252609.95,821426.38,431183.57,PROD00091
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson LLC,Lawyer,BUS93198794,185.0,"9020 Broadway, Seattle, TX",2004.0,2023.0,1392735.64,1283871.99,108863.65,PROD00092
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson LLC,Lawyer,BUS93198794,185.0,"9020 Broadway, Seattle, TX",2004.0,2024.0,3630619.25,1999672.79,1630946.46,PROD00093
+Savings Account,SAV4780210570,2021-08-11,2211.84,,0.0225,,Citadel Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00094
+Checking Account,CHK2955782895,2017-04-10,4507.51,,0.0018,,Community Savings,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00095
+Savings Account,SAV9644996734,2008-05-07,14994.42,,0.01,,Community Savings,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00096
+Savings Account,SAV7895951226,2025-09-07,22489.34,,0.0192,,MetroBank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00097
+Home Loan Account,,,,,,,,,LN803600856229,338028.62,15.0,0.0306,64233.45,3759.08,2023-05-16,,,,,,,,,,,,,,,,PROD00098
+Home Loan Account,,,,,,,,,LN324633848773,242971.12,25.0,0.0407,136677.26,1262.12,2019-08-21,,,,,,,,,,,,,,,,PROD00099
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS13384662,211.0,"8105 Walnut St, Charlotte, PA",2012.0,2022.0,862943.24,711186.98,151756.26,PROD00100
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS13384662,211.0,"8105 Walnut St, Charlotte, PA",2012.0,2023.0,2451815.28,2237538.21,214277.07,PROD00101
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS13384662,211.0,"8105 Walnut St, Charlotte, PA",2012.0,2024.0,2719841.54,2145449.79,574391.75,PROD00102
+Savings Account,SAV0896748270,2016-05-05,22800.48,,0.004,,First National Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00103
+Credit Card,,,,,,,,,,,,,,,,6054075256491952.0,9296.71,5000.0,Mastercard,2025-06-02,,,,,,,,,,,PROD00104
+Credit Card,,,,,,,,,,,,,,,,4262809604346708.0,9673.61,5000.0,Visa,2024-07-21,,,,,,,,,,,PROD00105
+Checking Account,CHK2962561802,2011-03-27,11283.82,,0.0214,,Community Savings,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00106
+Savings Account,SAV2558653776,2006-10-05,25039.64,,0.0487,,Pioneer Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00107
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Inc,Landscape,BUS37937029,126.0,"3837 Chestnut St, Seattle, TX",2017.0,2022.0,944974.47,721623.9,223350.57,PROD00108
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Inc,Landscape,BUS37937029,126.0,"3837 Chestnut St, Seattle, TX",2017.0,2023.0,1912762.11,1621018.7,291743.41,PROD00109
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Inc,Landscape,BUS37937029,126.0,"3837 Chestnut St, Seattle, TX",2017.0,2024.0,1490989.81,910849.26,580140.55,PROD00110
+Certificate Of Deposit,CD1330947104,2016-01-05,38620.0,2018-01-04,0.0481,42424.6,First National Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00111
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Co,IT Services,BUS05332309,232.0,"4077 Third St, Indianapolis, PA",2014.0,2022.0,864118.69,536629.4,327489.29,PROD00112
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Co,IT Services,BUS05332309,232.0,"4077 Third St, Indianapolis, PA",2014.0,2023.0,1356665.85,767426.08,589239.77,PROD00113
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Garcia Co,IT Services,BUS05332309,232.0,"4077 Third St, Indianapolis, PA",2014.0,2024.0,852692.86,532236.25,320456.61,PROD00114
+Credit Card,,,,,,,,,,,,,,,,3974641038384486.0,8915.89,5000.0,Mastercard,2020-11-11,,,,,,,,,,,PROD00115
+Home Loan Account,,,,,,,,,LN133769732739,239810.05,20.0,0.0541,131919.31,4774.42,2023-03-06,,,,,,,,,,,,,,,,PROD00116
+Savings Account,SAV4268744626,2021-01-16,21156.4,,0.0195,,Liberty Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00117
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wright Enterprise,IT Services,BUS09785912,171.0,"5916 Elm St, Boston, DC",1992.0,2022.0,2824837.06,2232367.15,592469.91,PROD00118
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wright Enterprise,IT Services,BUS09785912,171.0,"5916 Elm St, Boston, DC",1992.0,2023.0,3240783.16,3030342.94,210440.22,PROD00119
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wright Enterprise,IT Services,BUS09785912,171.0,"5916 Elm St, Boston, DC",1992.0,2024.0,1671351.58,1434527.71,236823.87,PROD00120
+Credit Card,,,,,,,,,,,,,,,,2555543755301491.0,14110.14,3000.0,Mastercard,2021-02-07,,,,,,,,,,,PROD00121
+Credit Card,,,,,,,,,,,,,,,,4446338186619211.0,8397.73,7500.0,Visa,2025-11-04,,,,,,,,,,,PROD00122
+Home Loan Account,,,,,,,,,LN406153727801,878380.36,20.0,0.0383,173106.17,746.98,2025-07-10,,,,,,,,,,,,,,,,PROD00123
+Savings Account,SAV5656538687,2011-09-03,45934.13,,0.0299,,Citadel Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00124
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee LLC,Pediatrician,BUS31654131,163.0,"8904 Elm St, Seattle, PA",2021.0,2022.0,1458397.17,851987.4,606409.77,PROD00125
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee LLC,Pediatrician,BUS31654131,163.0,"8904 Elm St, Seattle, PA",2021.0,2023.0,4213086.37,3280875.67,932210.7,PROD00126
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee LLC,Pediatrician,BUS31654131,163.0,"8904 Elm St, Seattle, PA",2021.0,2024.0,4330300.71,4019943.2,310357.51,PROD00127
+Savings Account,SAV6447415720,2010-01-16,26880.43,,0.0092,,Community Savings,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00128
+Credit Card,,,,,,,,,,,,,,,,5117838075918729.0,6745.99,5000.0,Visa,2025-07-21,,,,,,,,,,,PROD00129
+Checking Account,CHK7686467885,2019-12-09,4216.28,,0.0162,,United Trust Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00130
+Savings Account,SAV2595981740,2011-03-22,43352.38,,0.0072,,MetroBank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00131
+Savings Account,SAV6452446805,2011-03-30,34735.18,,0.044,,Citadel Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00132
+Home Loan Account,,,,,,,,,LN307774630524,251258.89,25.0,0.0361,71255.28,2827.09,2019-06-19,,,,,,,,,,,,,,,,PROD00133
+Certificate Of Deposit,CD0680914949,2020-11-19,89521.31,2023-11-19,0.0469,102716.93,Community Savings,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00134
+Checking Account,CHK3880306606,2024-04-13,10491.62,,0.007,,United Trust Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00135
+Home Loan Account,,,,,,,,,LN412606894103,744225.21,15.0,0.0252,273548.68,1636.43,2022-04-17,,,,,,,,,,,,,,,,PROD00136
+Checking Account,CHK7191506476,2011-05-25,13798.41,,0.0185,,Citadel Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00137
+Savings Account,SAV7539312056,2018-08-18,14246.04,,0.0471,,First National Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00138
+Checking Account,CHK8826136772,2016-08-27,1691.15,,0.015,,First National Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00139
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Enterprise,Construction,BUS45149050,56.0,"752 Maple Ave, Portland, TX",2022.0,2022.0,1446709.24,1187289.8,259419.44,PROD00140
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Enterprise,Construction,BUS45149050,56.0,"752 Maple Ave, Portland, TX",2022.0,2023.0,3840207.8,2652081.51,1188126.29,PROD00141
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Enterprise,Construction,BUS45149050,56.0,"752 Maple Ave, Portland, TX",2022.0,2024.0,2023341.51,1594882.31,428459.2,PROD00142
+Checking Account,CHK1009913576,2022-06-04,991.73,,0.021,,Community Savings,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00143
+Savings Account,SAV1606610104,2012-10-11,26150.27,,0.0394,,First National Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00144
+Checking Account,CHK1172870820,2023-12-23,14625.76,,0.0188,,Liberty Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00145
+Home Loan Account,,,,,,,,,LN508117861708,61673.67,15.0,0.0436,23619.75,920.41,2018-05-25,,,,,,,,,,,,,,,,PROD00146
+Home Loan Account,,,,,,,,,LN293851602504,883141.68,25.0,0.0587,274390.15,614.65,2023-02-14,,,,,,,,,,,,,,,,PROD00147
+Credit Card,,,,,,,,,,,,,,,,2772399775719056.0,10401.91,2000.0,Mastercard,2022-04-01,,,,,,,,,,,PROD00148
+Home Loan Account,,,,,,,,,LN732949912028,442403.96,25.0,0.0429,330873.66,2987.7,2023-09-02,,,,,,,,,,,,,,,,PROD00149
+Credit Card,,,,,,,,,,,,,,,,4922387732027511.0,6990.83,7500.0,Visa,2020-09-12,,,,,,,,,,,PROD00150
+Savings Account,SAV2116860830,2010-07-27,48420.0,,0.0204,,MetroBank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00151
+Credit Card,,,,,,,,,,,,,,,,2904472481089183.0,9454.46,15000.0,Visa,2023-05-09,,,,,,,,,,,PROD00152
+Certificate Of Deposit,CD8819094743,2014-06-08,81120.57,2019-06-07,0.0101,85300.75,First National Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00153
+Checking Account,CHK3924166648,2018-09-29,914.69,,0.0084,,Pioneer Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00154
+Savings Account,SAV5687973549,2016-04-08,16080.22,,0.0143,,Liberty Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00155
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Phillips Co,Real Estate,BUS84352122,137.0,"1016 Lakeview Dr, Denver, TN",2014.0,2022.0,1786927.08,1568296.58,218630.5,PROD00156
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Phillips Co,Real Estate,BUS84352122,137.0,"1016 Lakeview Dr, Denver, TN",2014.0,2023.0,4229200.09,2449743.71,1779456.38,PROD00157
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Phillips Co,Real Estate,BUS84352122,137.0,"1016 Lakeview Dr, Denver, TN",2014.0,2024.0,2970747.16,2563144.61,407602.55,PROD00158
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson Inc,Construction,BUS98895100,155.0,"3684 Main St, Indianapolis, CA",1990.0,2022.0,1672035.29,1298102.4,373932.89,PROD00159
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson Inc,Construction,BUS98895100,155.0,"3684 Main St, Indianapolis, CA",1990.0,2023.0,4036098.16,2636950.71,1399147.45,PROD00160
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Thompson Inc,Construction,BUS98895100,155.0,"3684 Main St, Indianapolis, CA",1990.0,2024.0,903750.17,778211.14,125539.03,PROD00161
+Checking Account,CHK0171153076,2021-02-21,1515.48,,0.0091,,Citadel Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00162
+Savings Account,SAV7961969725,2008-12-07,18919.21,,0.037,,Liberty Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00163
+Savings Account,SAV9939906992,2017-09-07,5205.51,,0.0253,,Liberty Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00164
+Checking Account,CHK9180768422,2009-07-09,5257.22,,0.0236,,United Trust Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00165
+Checking Account,CHK9843514866,2011-08-25,6769.31,,0.024,,Liberty Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00166
+Credit Card,,,,,,,,,,,,,,,,3901375805640918.0,2356.56,2000.0,Mastercard,2020-03-23,,,,,,,,,,,PROD00167
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Clark Co,Dentist,BUS20354000,211.0,"9933 Walnut St, San Antonio, TX",1991.0,2022.0,1050625.85,827037.75,223588.1,PROD00168
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Clark Co,Dentist,BUS20354000,211.0,"9933 Walnut St, San Antonio, TX",1991.0,2023.0,4885747.33,3484059.61,1401687.72,PROD00169
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Clark Co,Dentist,BUS20354000,211.0,"9933 Walnut St, San Antonio, TX",1991.0,2024.0,595234.44,507850.73,87383.71,PROD00170
+Home Loan Account,,,,,,,,,LN518342422076,131421.95,25.0,0.0604,54406.93,3830.99,2020-07-20,,,,,,,,,,,,,,,,PROD00171
+Certificate Of Deposit,CD9522380555,2018-09-07,96597.14,2023-09-06,0.0428,119115.8,Community Savings,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00172
+Savings Account,SAV1006281537,2023-02-09,3350.6,,0.02,,United Trust Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00173
+Checking Account,CHK3248765441,2021-03-09,8740.16,,0.0289,,Pioneer Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00174
+Credit Card,,,,,,,,,,,,,,,,7888265414664386.0,739.36,7500.0,Mastercard,2021-02-17,,,,,,,,,,,PROD00175
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Perez Co,Dentist,BUS24608194,212.0,"5357 Sunset Blvd, Detroit, OH",1995.0,2022.0,955919.74,568892.43,387027.31,PROD00176
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Perez Co,Dentist,BUS24608194,212.0,"5357 Sunset Blvd, Detroit, OH",1995.0,2023.0,4123367.78,3436518.45,686849.33,PROD00177
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Perez Co,Dentist,BUS24608194,212.0,"5357 Sunset Blvd, Detroit, OH",1995.0,2024.0,3802276.61,3384919.86,417356.75,PROD00178
+Certificate Of Deposit,CD4755182000,2021-07-23,7496.08,2023-07-23,0.044,8170.25,Citadel Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00179
+Savings Account,SAV8561035185,2012-11-05,17212.45,,0.042,,MetroBank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00180
+Home Loan Account,,,,,,,,,LN008722226589,698089.74,30.0,0.0656,451923.44,3085.48,2018-02-04,,,,,,,,,,,,,,,,PROD00181
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Restaurant,BUS88423565,2.0,"8480 Chestnut St, Seattle, MA",2008.0,2022.0,1506410.11,826487.45,679922.66,PROD00182
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Restaurant,BUS88423565,2.0,"8480 Chestnut St, Seattle, MA",2008.0,2023.0,337908.53,319243.29,18665.24,PROD00183
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rivera Co,Restaurant,BUS88423565,2.0,"8480 Chestnut St, Seattle, MA",2008.0,2024.0,3210161.83,2849568.27,360593.56,PROD00184
+Home Loan Account,,,,,,,,,LN152088431042,911565.98,30.0,0.0394,32195.6,3598.73,2024-06-01,,,,,,,,,,,,,,,,PROD00185
+Certificate Of Deposit,CD8101287163,2021-05-18,84696.51,2024-05-17,0.0512,98383.34,Liberty Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00186
+Savings Account,SAV3737322848,2018-02-02,29015.66,,0.0314,,First National Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00187
+Credit Card,,,,,,,,,,,,,,,,1654819398918103.0,14799.61,5000.0,Visa,2025-08-11,,,,,,,,,,,PROD00188
+Certificate Of Deposit,CD0664930130,2013-10-13,49468.13,2015-10-13,0.047,54227.41,United Trust Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00189
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Baker LLC,Pediatrician,BUS28315300,243.0,"4864 Center St, Detroit, IN",2023.0,2022.0,1702419.05,1531476.29,170942.76,PROD00190
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Baker LLC,Pediatrician,BUS28315300,243.0,"4864 Center St, Detroit, IN",2023.0,2023.0,4977452.6,3256397.71,1721054.89,PROD00191
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Baker LLC,Pediatrician,BUS28315300,243.0,"4864 Center St, Detroit, IN",2023.0,2024.0,4508891.21,2983366.03,1525525.18,PROD00192
+Credit Card,,,,,,,,,,,,,,,,7175136082509660.0,10346.25,7500.0,Mastercard,2022-07-07,,,,,,,,,,,PROD00193
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hall Inc,Pediatrician,BUS66366261,213.0,"1818 First St, Detroit, DC",1997.0,2022.0,1427879.71,1218184.19,209695.52,PROD00194
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hall Inc,Pediatrician,BUS66366261,213.0,"1818 First St, Detroit, DC",1997.0,2023.0,2498740.53,1934152.14,564588.39,PROD00195
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hall Inc,Pediatrician,BUS66366261,213.0,"1818 First St, Detroit, DC",1997.0,2024.0,3894235.4,3404241.16,489994.24,PROD00196
+Certificate Of Deposit,CD6986105712,2014-08-29,33729.76,2019-08-28,0.0052,34615.9,Community Savings,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00197
+Credit Card,,,,,,,,,,,,,,,,2088836418801638.0,14326.34,5000.0,Visa,2023-04-27,,,,,,,,,,,PROD00198
+Home Loan Account,,,,,,,,,LN314486448117,982490.71,20.0,0.0252,895271.83,2516.84,2024-05-19,,,,,,,,,,,,,,,,PROD00199
+Checking Account,CHK1330689191,2017-03-23,6610.32,,0.0019,,Liberty Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00200
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Smith Inc,Retail,BUS56647466,39.0,"9247 Park Ave, Los Angeles, NY",2000.0,2022.0,2537726.51,1804780.39,732946.12,PROD00201
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Smith Inc,Retail,BUS56647466,39.0,"9247 Park Ave, Los Angeles, NY",2000.0,2023.0,2489257.96,1429908.79,1059349.17,PROD00202
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Smith Inc,Retail,BUS56647466,39.0,"9247 Park Ave, Los Angeles, NY",2000.0,2024.0,3762121.41,2423879.21,1338242.2,PROD00203
+Certificate Of Deposit,CD4848414614,2014-12-30,40924.42,2019-12-29,0.0179,44720.65,First National Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00204
+Checking Account,CHK9685643888,2015-06-12,8402.26,,0.0186,,Citadel Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00205
+Home Loan Account,,,,,,,,,LN671723892570,205947.6,20.0,0.0611,152918.34,2164.21,2020-11-07,,,,,,,,,,,,,,,,PROD00206
+Savings Account,SAV2813706618,2015-04-05,32922.83,,0.0479,,Citadel Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00207
+Checking Account,CHK0754597961,2010-11-17,1553.31,,0.0197,,United Trust Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00208
+Certificate Of Deposit,CD9414772787,2023-08-29,28085.99,2025-08-28,0.058,31438.45,Pioneer Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00209
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wilson Inc,Pediatrician,BUS62369695,178.0,"5381 Pine St, Oklahoma City, FL",2020.0,2022.0,2922375.23,2700868.37,221506.86,PROD00210
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wilson Inc,Pediatrician,BUS62369695,178.0,"5381 Pine St, Oklahoma City, FL",2020.0,2023.0,3556415.68,2857258.39,699157.29,PROD00211
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Wilson Inc,Pediatrician,BUS62369695,178.0,"5381 Pine St, Oklahoma City, FL",2020.0,2024.0,4471452.69,3310020.85,1161431.84,PROD00212
+Credit Card,,,,,,,,,,,,,,,,6171228627081878.0,11136.19,10000.0,Mastercard,2020-08-05,,,,,,,,,,,PROD00213
+Checking Account,CHK7726939935,2008-04-16,11155.05,,0.0061,,United Trust Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00214
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lewis Inc,Retail,BUS75679216,48.0,"2947 First St, Houston, TX",1992.0,2022.0,2153968.92,1616487.72,537481.2,PROD00215
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lewis Inc,Retail,BUS75679216,48.0,"2947 First St, Houston, TX",1992.0,2023.0,667731.32,509341.26,158390.06,PROD00216
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lewis Inc,Retail,BUS75679216,48.0,"2947 First St, Houston, TX",1992.0,2024.0,1289980.42,836879.0,453101.42,PROD00217
+Home Loan Account,,,,,,,,,LN095768375075,959138.33,15.0,0.0593,152858.35,2806.78,2022-07-11,,,,,,,,,,,,,,,,PROD00218
+Savings Account,SAV3327598906,2014-12-30,12017.39,,0.0325,,United Trust Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00219
+Savings Account,SAV3529838408,2009-04-27,16015.64,,0.005,,Citadel Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00220
+Checking Account,CHK9756262682,2023-10-05,13179.56,,0.0222,,First National Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00221
+Certificate Of Deposit,CD0012089444,2011-08-14,3351.54,2013-08-13,0.0444,3655.76,Pioneer Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00222
+Home Loan Account,,,,,,,,,LN310707083526,626237.55,25.0,0.0583,274089.24,2096.54,2025-05-30,,,,,,,,,,,,,,,,PROD00223
+Savings Account,SAV1375916977,2013-05-15,47869.58,,0.0015,,Community Savings,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00224
+Savings Account,SAV3502772981,2009-02-16,11039.4,,0.0419,,Community Savings,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00225
+Checking Account,CHK1788994520,2010-03-15,2961.26,,0.0174,,United Trust Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00226
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Inc,Landscape,BUS20143661,146.0,"6071 Riverside Dr, Columbus, PA",1990.0,2022.0,1579809.61,1348441.83,231367.78,PROD00227
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Inc,Landscape,BUS20143661,146.0,"6071 Riverside Dr, Columbus, PA",1990.0,2023.0,3566751.65,2811946.2,754805.45,PROD00228
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Rodriguez Inc,Landscape,BUS20143661,146.0,"6071 Riverside Dr, Columbus, PA",1990.0,2024.0,1397865.58,925063.69,472801.89,PROD00229
+Credit Card,,,,,,,,,,,,,,,,8433516881528000.0,7607.67,2000.0,Mastercard,2023-09-20,,,,,,,,,,,PROD00230
+Savings Account,SAV4732772453,2016-04-06,529.58,,0.0127,,Community Savings,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00231
+Checking Account,CHK6711558179,2008-11-27,3282.29,,0.0146,,Citadel Bank,Central,,,,,,,,,,,,,,,,,,,,,,,PROD00232
+Certificate Of Deposit,CD9344093758,2018-04-15,5238.04,2020-04-14,0.0164,5411.26,First National Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00233
+Certificate Of Deposit,CD0292483780,2018-06-28,59180.2,2021-06-27,0.0544,69373.34,Pioneer Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00234
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Landscape,BUS52116864,85.0,"1956 Walnut St, El Paso, CA",2020.0,2022.0,1069305.68,612242.53,457063.15,PROD00235
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Landscape,BUS52116864,85.0,"1956 Walnut St, El Paso, CA",2020.0,2023.0,4170157.68,2127200.42,2042957.26,PROD00236
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Hernandez Inc,Landscape,BUS52116864,85.0,"1956 Walnut St, El Paso, CA",2020.0,2024.0,234858.77,178039.14,56819.63,PROD00237
+Savings Account,SAV6050219550,2021-02-20,36398.72,,0.0412,,United Trust Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00238
+Savings Account,SAV8678162734,2018-04-01,3442.14,,0.0195,,United Trust Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00239
+Credit Card,,,,,,,,,,,,,,,,2854104607514168.0,13454.53,20000.0,Mastercard,2020-03-08,,,,,,,,,,,PROD00240
+Small Business Account,,,,,,,,,,,,,,,,,,,,,White LLC,IT Services,BUS49473898,148.0,"1700 Broadway, Phoenix, TX",2020.0,2022.0,3833977.27,3487149.59,346827.68,PROD00241
+Small Business Account,,,,,,,,,,,,,,,,,,,,,White LLC,IT Services,BUS49473898,148.0,"1700 Broadway, Phoenix, TX",2020.0,2023.0,437411.55,336470.77,100940.78,PROD00242
+Small Business Account,,,,,,,,,,,,,,,,,,,,,White LLC,IT Services,BUS49473898,148.0,"1700 Broadway, Phoenix, TX",2020.0,2024.0,2727780.49,1680346.17,1047434.32,PROD00243
+Home Loan Account,,,,,,,,,LN705532841452,559299.65,25.0,0.0506,554712.65,2107.78,2020-04-14,,,,,,,,,,,,,,,,PROD00244
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS95731812,201.0,"2750 Pine St, San Antonio, IN",2015.0,2022.0,3934683.99,3385339.86,549344.13,PROD00245
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS95731812,201.0,"2750 Pine St, San Antonio, IN",2015.0,2023.0,3077846.33,2487066.04,590780.29,PROD00246
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Scott Enterprise,Dentist,BUS95731812,201.0,"2750 Pine St, San Antonio, IN",2015.0,2024.0,279222.93,188502.47,90720.46,PROD00247
+Credit Card,,,,,,,,,,,,,,,,8460236794629071.0,7415.53,2000.0,Visa,2021-01-08,,,,,,,,,,,PROD00248
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Allen Inc,Construction,BUS10201973,102.0,"6742 Third St, San Antonio, IN",1990.0,2022.0,3689889.19,1958879.99,1731009.2,PROD00249
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Allen Inc,Construction,BUS10201973,102.0,"6742 Third St, San Antonio, IN",1990.0,2023.0,469025.97,294558.72,174467.25,PROD00250
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Allen Inc,Construction,BUS10201973,102.0,"6742 Third St, San Antonio, IN",1990.0,2024.0,4152228.72,3785811.3,366417.42,PROD00251
+Certificate Of Deposit,CD9524102989,2016-03-15,61029.98,2018-03-15,0.0157,62961.36,MetroBank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00252
+Savings Account,SAV7243423768,2024-05-02,1367.53,,0.0067,,Community Savings,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00253
+Checking Account,CHK6962395082,2010-01-31,5983.96,,0.0225,,First National Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00254
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee Co,Pediatrician,BUS82969417,224.0,"4448 Washington St, San Diego, TX",2005.0,2022.0,4184946.86,2762953.47,1421993.39,PROD00255
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee Co,Pediatrician,BUS82969417,224.0,"4448 Washington St, San Diego, TX",2005.0,2023.0,3899113.63,2159895.75,1739217.88,PROD00256
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Lee Co,Pediatrician,BUS82969417,224.0,"4448 Washington St, San Diego, TX",2005.0,2024.0,410868.11,382148.78,28719.33,PROD00257
+Checking Account,CHK4649884992,2012-12-24,11252.54,,0.0038,,First National Bank,South Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00258
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Enterprise,IT Services,BUS03874153,3.0,"293 Washington St, Fort Worth, CO",1996.0,2022.0,1640672.28,1272751.76,367920.52,PROD00259
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Enterprise,IT Services,BUS03874153,3.0,"293 Washington St, Fort Worth, CO",1996.0,2023.0,1313309.83,980850.08,332459.75,PROD00260
+Small Business Account,,,,,,,,,,,,,,,,,,,,,Ramirez Enterprise,IT Services,BUS03874153,3.0,"293 Washington St, Fort Worth, CO",1996.0,2024.0,1200952.98,855205.12,345747.86,PROD00261
+Certificate Of Deposit,CD8211520224,2014-09-21,70370.55,2019-09-20,0.0255,79812.2,Pioneer Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00262
+Savings Account,SAV1918149857,2022-08-13,24331.01,,0.0133,,Pioneer Bank,Uptown,,,,,,,,,,,,,,,,,,,,,,,PROD00263
+Checking Account,CHK2280723583,2017-03-27,1818.56,,0.026,,United Trust Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00264
+Credit Card,,,,,,,,,,,,,,,,9235740649869464.0,13606.1,2000.0,Visa,2021-12-15,,,,,,,,,,,PROD00265
+Home Loan Account,,,,,,,,,LN367638797541,861501.25,20.0,0.0564,570333.25,4714.1,2025-11-10,,,,,,,,,,,,,,,,PROD00266
+Certificate Of Deposit,CD9407591609,2014-09-22,40307.51,2016-09-21,0.0103,41142.12,Liberty Bank,Downtown,,,,,,,,,,,,,,,,,,,,,,,PROD00267
+Savings Account,SAV2618068349,2017-02-15,46742.88,,0.0279,,United Trust Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00268
+Home Loan Account,,,,,,,,,LN547846594203,441593.62,20.0,0.0352,40.78,4113.82,2019-07-13,,,,,,,,,,,,,,,,PROD00269
+Credit Card,,,,,,,,,,,,,,,,9404220345317332.0,6333.59,3000.0,Mastercard,2025-07-07,,,,,,,,,,,PROD00270
+Home Loan Account,,,,,,,,,LN210114474319,71024.34,15.0,0.0341,8880.83,2304.4,2018-02-03,,,,,,,,,,,,,,,,PROD00271
+Savings Account,SAV2474360071,2010-12-24,38782.65,,0.0045,,First National Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00272
+Savings Account,SAV8172747047,2016-09-09,33300.39,,0.0112,,Citadel Bank,Eastside,,,,,,,,,,,,,,,,,,,,,,,PROD00273
+Certificate Of Deposit,CD7514230692,2016-12-31,16702.53,2019-12-31,0.0451,19065.83,Pioneer Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00274
+Checking Account,CHK5329566172,2019-03-19,1371.02,,0.0186,,Citadel Bank,Westside,,,,,,,,,,,,,,,,,,,,,,,PROD00275
+Savings Account,SAV0315143563,2025-01-01,21935.94,,0.0105,,Citadel Bank,North Branch,,,,,,,,,,,,,,,,,,,,,,,PROD00276

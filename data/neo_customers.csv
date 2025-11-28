@@ -1,0 +1,101 @@
+customerId,name,address,sex,gender,ethnicity
+CUST0001,Samantha Davis,"509 Sunset Blvd, San Diego, CA 39256",M,Female,Other/Unknown
+CUST0002,Barbara Nguyen,"7012 Maple Ave, New York, NY 22280",M,Male,Other/Unknown
+CUST0003,Patricia Scott,"3357 Second St, Columbus, OH 38893",F,Female,Non-Hispanic White
+CUST0004,Carolyn Phillips,"2715 Broadway, Austin, TX 46421",M,Male,Non-Hispanic Black
+CUST0005,Susan Garcia,"6324 Pine St, Jacksonville, FL 55082",F,Female,Asian
+CUST0006,Jonathan Davis,"6301 Oak St, Seattle, WA 48427",F,Female,Non-Hispanic White
+CUST0007,Jennifer Nelson,"3833 Hillcrest Rd, Chicago, IL 40512",M,Male,Asian
+CUST0008,Samantha Turner,"6077 Elm St, Jacksonville, FL 56566",M,Female,Non-Hispanic White
+CUST0009,Nicole Green,"2903 Second St, Detroit, MI 42087",M,Female,Non-Hispanic Black
+CUST0010,Samantha Hall,"9225 Lakeview Dr, El Paso, TX 52504",M,Male,Non-Hispanic White
+CUST0011,Kenneth Sanchez,"4486 Oak St, San Antonio, TX 84341",F,Male,Asian
+CUST0012,Ronald Adams,"7617 Cedar Ave, Dallas, TX 28301",M,Female,Other/Unknown
+CUST0013,Kimberly Mitchell,"9677 Broadway, Louisville, KY 86484",F,Male,Hispanic or Latino
+CUST0014,Shirley Young,"1589 Maple Ave, Memphis, TN 24371",M,Female,Asian
+CUST0015,Scott Jones,"6404 Spruce St, Washington, DC 71348",F,Other,Non-Hispanic White
+CUST0016,Virginia Campbell,"1976 Second St, Oklahoma City, OK 44973",F,Male,Asian
+CUST0017,Christopher Robinson,"153 Sunset Blvd, Indianapolis, IN 33416",M,Female,Non-Hispanic Black
+CUST0018,Samantha Allen,"3358 Cedar Ave, Jacksonville, FL 31174",M,Female,Asian
+CUST0019,John Davis,"6047 Hillcrest Rd, San Diego, CA 17592",M,Female,Non-Hispanic White
+CUST0020,David Campbell,"8062 Oak St, Oklahoma City, OK 79822",M,Male,Asian
+CUST0021,Stephen Hernandez,"4442 First St, Memphis, TN 89507",F,Other,Other/Unknown
+CUST0022,Dennis Campbell,"3395 Hillcrest Rd, Fort Worth, TX 98039",F,Male,Other/Unknown
+CUST0023,Laura Davis,"4161 Lakeview Dr, Chicago, IL 54313",M,Female,Hispanic or Latino
+CUST0024,Pamela Anderson,"217 Oak St, Nashville, TN 92719",M,Male,Non-Hispanic White
+CUST0025,Kevin Jones,"8523 Lakeview Dr, Dallas, TX 97684",F,Male,Hispanic or Latino
+CUST0026,Patrick Torres,"9540 Walnut St, San Diego, CA 71993",F,Male,Non-Hispanic White
+CUST0027,Gregory Ramirez,"5904 Broadway, Columbus, OH 71213",M,Female,Non-Hispanic White
+CUST0028,Linda Sanchez,"5659 Pine St, San Diego, CA 35112",M,Female,Hispanic or Latino
+CUST0029,Jason Lopez,"4663 Center St, San Diego, CA 19880",F,Female,Other/Unknown
+CUST0030,Richard Brown,"8956 Main St, Chicago, IL 40982",M,Male,Asian
+CUST0031,Margaret Sanchez,"1060 Elm St, Fort Worth, TX 10282",F,Male,Asian
+CUST0032,Andrew Ramirez,"9205 Walnut St, Phoenix, AZ 34890",F,Male,Non-Hispanic White
+CUST0033,Justin Mitchell,"8983 Maple Ave, Detroit, MI 51104",M,Male,Asian
+CUST0034,Nicholas King,"2679 Maple Ave, Indianapolis, IN 20500",M,Male,Non-Hispanic White
+CUST0035,Frank Thomas,"6715 Pine St, Louisville, KY 84668",M,Female,Non-Hispanic White
+CUST0036,Katherine Garcia,"6968 Third St, Denver, CO 78522",F,Non-binary,Hispanic or Latino
+CUST0037,Catherine Rivera,"5247 Lakeview Dr, Dallas, TX 61876",M,Female,Non-Hispanic Black
+CUST0038,Ryan Lee,"1288 Main St, Charlotte, NC 91416",M,Male,Hispanic or Latino
+CUST0039,Nicholas Taylor,"2270 Chestnut St, Louisville, KY 19016",M,Male,Hispanic or Latino
+CUST0040,Jeffrey Turner,"9000 Hillcrest Rd, Washington, DC 95717",M,Female,Other/Unknown
+CUST0041,Joshua Nelson,"1797 Cedar Ave, Dallas, TX 25129",M,Female,Hispanic or Latino
+CUST0042,Paul Jackson,"3550 Riverside Dr, San Antonio, TX 93130",F,Female,Non-Hispanic Black
+CUST0043,Michael Garcia,"7039 Sunset Blvd, Los Angeles, CA 10464",F,Female,Non-Hispanic Black
+CUST0044,Christopher Mitchell,"7339 Second St, Nashville, TN 66057",M,Male,Hispanic or Latino
+CUST0045,Angela Williams,"6149 Third St, Seattle, WA 29410",F,Male,Non-Hispanic Black
+CUST0046,George Gomez,"753 Chestnut St, San Antonio, TX 99399",M,Female,Non-Hispanic Black
+CUST0047,Ruth Clark,"2632 Lakeview Dr, Memphis, TN 31299",M,Female,Non-Hispanic White
+CUST0048,Daniel Mitchell,"5542 Broadway, Portland, OR 97806",M,Male,Non-Hispanic White
+CUST0049,Edward Williams,"7811 Lakeview Dr, San Antonio, TX 70332",F,Male,Hispanic or Latino
+CUST0050,Mark Johnson,"3264 Spruce St, Austin, TX 46517",M,Other,Non-Hispanic Black
+CUST0051,Brian Adams,"8446 Spruce St, El Paso, TX 80282",F,Non-binary,Non-Hispanic White
+CUST0052,Kimberly Lopez,"9612 Sunset Blvd, Los Angeles, CA 24208",F,Male,Non-Hispanic Black
+CUST0053,Sharon Hill,"8479 Pine St, Fort Worth, TX 85574",M,Male,Asian
+CUST0054,James King,"8921 Washington St, Jacksonville, FL 66531",M,Non-binary,Non-Hispanic Black
+CUST0055,Katherine Lee,"2141 Hillcrest Rd, Indianapolis, IN 50538",F,Male,Non-Hispanic Black
+CUST0056,Stephen Rodriguez,"3243 Broadway, El Paso, TX 59695",M,Female,Non-Hispanic Black
+CUST0057,Stephanie Scott,"106 Hillcrest Rd, San Jose, CA 37549",F,Female,Other/Unknown
+CUST0058,Christine Lee,"7718 Center St, Charlotte, NC 98555",M,Female,Hispanic or Latino
+CUST0059,Gregory Garcia,"4749 First St, El Paso, TX 92960",F,Male,Hispanic or Latino
+CUST0060,Frank Martin,"3780 Washington St, Phoenix, AZ 13201",M,Male,Asian
+CUST0061,Brandon Roberts,"1293 Center St, Columbus, OH 92544",M,Female,Asian
+CUST0062,Amy Sanchez,"4097 Cedar Ave, Boston, MA 10726",M,Female,Hispanic or Latino
+CUST0063,Daniel Phillips,"8586 Center St, Los Angeles, CA 83060",M,Non-binary,Non-Hispanic White
+CUST0064,Ryan Rodriguez,"7712 First St, Seattle, WA 88047",F,Other,Asian
+CUST0065,Brandon Evans,"8370 Broadway, Las Vegas, NV 81810",F,Female,Asian
+CUST0066,Laura Taylor,"4150 Sunset Blvd, Oklahoma City, OK 78327",F,Female,Non-Hispanic Black
+CUST0067,Jeffrey Jones,"4781 Lakeview Dr, Dallas, TX 54020",F,Female,Non-Hispanic White
+CUST0068,Sarah Martinez,"3888 Spruce St, Nashville, TN 30028",M,Male,Asian
+CUST0069,Kevin Wright,"7733 Broadway, Los Angeles, CA 37110",F,Male,Other/Unknown
+CUST0070,Debra Johnson,"9532 Spruce St, San Francisco, CA 10772",F,Male,Asian
+CUST0071,Rebecca Wright,"9047 Park Ave, Louisville, KY 38906",F,Male,Asian
+CUST0072,Gary Johnson,"6471 Riverside Dr, El Paso, TX 99016",F,Female,Asian
+CUST0073,Thomas Flores,"8851 Main St, Baltimore, MD 61645",M,Male,Asian
+CUST0074,Sarah Robinson,"3077 Maple Ave, Dallas, TX 59689",F,Male,Non-Hispanic Black
+CUST0075,Carol Carter,"6311 Sunset Blvd, Oklahoma City, OK 65255",F,Female,Asian
+CUST0076,John Mitchell,"8937 Maple Ave, Jacksonville, FL 39389",M,Female,Non-Hispanic White
+CUST0077,Dennis Johnson,"4151 Washington St, Las Vegas, NV 12671",M,Male,Asian
+CUST0078,Catherine Davis,"9340 Washington St, Charlotte, NC 43586",F,Male,Other/Unknown
+CUST0079,Emma Rivera,"1976 Elm St, San Jose, CA 24168",M,Non-binary,Other/Unknown
+CUST0080,Frank Harris,"6598 Washington St, Chicago, IL 87607",M,Male,Non-Hispanic Black
+CUST0081,Virginia Hill,"2083 Third St, Portland, OR 15383",F,Female,Non-Hispanic Black
+CUST0082,William Allen,"5690 Main St, Memphis, TN 65057",F,Male,Non-Hispanic Black
+CUST0083,Samantha Turner,"7632 Cedar Ave, Columbus, OH 33086",F,Female,Other/Unknown
+CUST0084,Kathleen Robinson,"7236 Third St, Dallas, TX 52245",M,Female,Non-Hispanic White
+CUST0085,Emily Lewis,"4095 Center St, Denver, CO 89997",F,Male,Asian
+CUST0086,Dorothy Lopez,"8088 Washington St, Jacksonville, FL 43862",F,Male,Other/Unknown
+CUST0087,Debra Moore,"9206 Main St, Indianapolis, IN 35042",M,Male,Asian
+CUST0088,Gary Scott,"4037 Walnut St, Boston, MA 74332",F,Female,Non-Hispanic White
+CUST0089,Donna Anderson,"6725 Lakeview Dr, San Jose, CA 97026",F,Female,Other/Unknown
+CUST0090,Brian Ramirez,"9117 Riverside Dr, Jacksonville, FL 69473",F,Male,Hispanic or Latino
+CUST0091,Jessica Campbell,"3255 Riverside Dr, Houston, TX 80236",M,Male,Asian
+CUST0092,Emily Campbell,"9759 First St, Washington, DC 47093",M,Female,Non-Hispanic Black
+CUST0093,Sandra White,"3039 Hillcrest Rd, New York, NY 80010",M,Male,Non-Hispanic White
+CUST0094,Stephen Jackson,"2168 Walnut St, Houston, TX 11607",F,Female,Asian
+CUST0095,Carol Lopez,"941 Sunset Blvd, Memphis, TN 72616",M,Female,Asian
+CUST0096,Gary Jones,"9553 Maple Ave, Phoenix, AZ 29555",F,Male,Hispanic or Latino
+CUST0097,Jessica Scott,"6918 Park Ave, Washington, DC 91057",M,Female,Asian
+CUST0098,Laura Lewis,"4971 Third St, Columbus, OH 50026",M,Female,Non-Hispanic White
+CUST0099,Carolyn Wilson,"3557 Sunset Blvd, El Paso, TX 20641",M,Male,Other/Unknown
+CUST0100,Elizabeth Hernandez,"143 Broadway, Charlotte, NC 87832",F,Male,Hispanic or Latino
